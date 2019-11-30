@@ -9,3 +9,5 @@ try{
 	}
 }catch(Exception $e){
 }
+
+//CREATE TABLE IF NOT EXISTS
