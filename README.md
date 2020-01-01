@@ -1,2 +1,2 @@
 # phpBasicProj
-projeto php basico criado do zero
+projeto php basico sem uso de framework
